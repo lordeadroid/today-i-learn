@@ -9,8 +9,8 @@
 ---
 
 ## Sun 17
-- process.stdout.write
-- process.stdin.read
+  - process.stdout.write
+  - process.stdin.read
 ---
 
 ## Tue 16
