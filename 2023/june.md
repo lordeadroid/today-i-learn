@@ -1,4 +1,4 @@
-# June 2023                                               
+# June 2023
 
 ## Tue 6
 
@@ -15,4 +15,6 @@
 
 ---
 
-[< back](../index.md)
+### [^ top](#june-2023)
+
+### [< back](../index.md)
