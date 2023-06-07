@@ -15,6 +15,6 @@
 
 ---
 
-### [^ top](#june-2023)
+[^ top](#june-2023)
 
-### [< back](../index.md)
+[< back](../index.md)

@@ -1,4 +1,4 @@
-![JS Logo](./javascript-logo.png)
+![JS Logo](./images/javascript-logo.png)
 
 # 2023
 
