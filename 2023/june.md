@@ -1,5 +1,13 @@
 # JUNE 2023
 
+## Wed 7
+
+- tty
+  - movecursor
+  - cursorto
+
+---
+
 ## Tue 6
 
 - package in js
@@ -9,7 +17,7 @@
 
 ---
 
-## Tue 5
+## Mon 5
 
 - events 
   - emit
@@ -18,5 +26,5 @@
 
 ---
 ---
-#### [^ top](#june-2023)
-#### [< back](../index.md)
+### [🔝 top](#june-2023)
+### [🔙 back](../index.md)
