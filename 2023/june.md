@@ -5,16 +5,18 @@
 - package in js
 - npm
 - tty
-- input rom
+- raw mode
+
+---
 
 ## Tue 5
 
 - events 
   - emit
   - createReadStream
+- set
 
 ---
-
-### [^ top](#june-2023)
-
-### [< back](../index.md)
+---
+#### [^ top](#june-2023)
+#### [< back](../index.md)
